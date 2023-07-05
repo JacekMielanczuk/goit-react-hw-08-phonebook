@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/233.f146c37c.chunk.css","mappings":"AAAA,0BAIE,gBAAiB,CAFjB,gBAAiB,CADjB,cAAe,CAEf,WAEF","sources":["pages/LoginPage/LoginPage.module.css"],"sourcesContent":[".wrapper {\n  padding: 0 25px;\n  max-width: 1200px;\n  width: 450px;\n  margin: 30px auto;\n}\n"],"names":[],"sourceRoot":""}
